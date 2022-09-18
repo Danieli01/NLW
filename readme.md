@@ -3,7 +3,7 @@
 ![preview](./.github/preview.png)
 Projeto construído do evento Next Level Week da Rockeseat.
 
-[##](https://danieli01.github.io/NLW-esports-explorer)Clique para acessar
+## (https://danieli01.github.io/NLW-esports-explorer) Clique para acessar
 
 
  Tecnologias
